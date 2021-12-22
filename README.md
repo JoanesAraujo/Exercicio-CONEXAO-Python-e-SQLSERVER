@@ -4,7 +4,7 @@
 
 Tendo o banco de dados criado nós já podemos partir para a integração entre Python e SQL e vamos fazer isso com a biblioteca pyodbc.
 
-
+<img width="700" align="center" src="./screen.png">
 
 **Passo 1:** Baixar e instalar o SSMS - digitar no google download ssms e baixar 1º link
 **Passo 2:** Instalar
