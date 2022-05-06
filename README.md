@@ -6,8 +6,10 @@ Tendo o banco de dados criado nós já podemos partir para a integração entre 
 
 <img width="700" align="center" src="./screen.png">
 
-**Passo 1:** Baixar e instalar o SSMS - digitar no google download ssms e baixar 1º link
+**Passo 1:** Baixar e instalar o SSMS - digitar no google download ssms e baixar 1º link do resultado.
+<br>
 **Passo 2:** Instalar
+<br>
 **Passo 3:** Criar Banco de Dados, abrindo uma query e rodando:
 
 CREATE DATABASE Nome_Banco_Dados
